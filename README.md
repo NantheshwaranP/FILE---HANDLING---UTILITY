@@ -13,3 +13,7 @@
 *MENTOR*:NEELA SANTHOSH
 
 #OUTPUT OF TASK 1
+
+
+<img width="839" height="293" alt="Image" src="https://github.com/user-attachments/assets/3498707d-711e-4d32-8215-39f01e293bb0" />
+
