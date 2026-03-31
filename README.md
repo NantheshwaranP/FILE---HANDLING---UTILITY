@@ -26,4 +26,11 @@
 
 #OUTPUT OF TASK 4
 
+<img width="909" height="783" alt="Image" src="https://github.com/user-attachments/assets/2e25e29c-35d5-4e53-9537-7ad8d51eaa3b" />
+
+<img width="968" height="804" alt="Image" src="https://github.com/user-attachments/assets/4676b561-8ac6-4c1c-89e2-0a81a4d9ba5d" />
+
+<img width="763" height="92" alt="Image" src="https://github.com/user-attachments/assets/0dc9635a-b13e-4177-b209-12510faac2d4" />
+
+
 
